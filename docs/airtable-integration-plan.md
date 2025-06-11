@@ -17,7 +17,7 @@ Create `.env` file with the following variables:
 ```
 VITE_AIRTABLE_API_KEY=pat26IM6aUY7w56VS.cd23c7f358b5d1373f0303ccb2aede54681b95d4124daa2344baa4cbdaacf1f1
 VITE_AIRTABLE_BASE_ID=appyAgeyAmkC0h7FS
-VITE_AIRTABLE_TABLE_ID=viwZBrilHWCD4yjgz
+VITE_AIRTABLE_TABLE_ID=tbl2uB42a2wSbfEhK
 ```
 
 ## Dependencies and API Integration
